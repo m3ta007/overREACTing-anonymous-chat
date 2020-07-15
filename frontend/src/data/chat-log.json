@@ -1,0 +1,36 @@
+[
+  {
+    "id": "chat-5-1090",
+    "from": { "name": "Jane" },
+    "type": "response",
+    "time": "10:10",
+    "text": "Hi Jane, how are you? How's the project doing on?"
+  },
+  {
+    "id": "chat-5-1091",
+    "from": { "name": "Johnathan" },
+    "type": "message",
+    "time": "10:12",
+    "text": "Hello! Let's have a call later today? The project is almost ready and I have something to show you."
+  },
+  {
+    "id": "chat-5-1092",
+    "from": { "name": "Jane" },
+    "type": "response",
+    "time": "10:14",
+    "text": "I'm not sure we'll have a time today. Not everyone is in the office yet. I'll get back to you in an hour. Are there any issues at the final stage of the project?"
+  },
+  {
+    "id": "chat-5-1093",
+    "from": { "name": "Johnathan" },
+    "type": "message",
+    "time": "10:20",
+    "text": "Not at all. Everything went smooth. I am eager to present everything to the team."
+  },
+  {
+    "id": "chat-5-1094",
+    "from": { "name": "Johnathan" },
+    "type": "typing",
+    "time": "10:31"
+  }
+]
